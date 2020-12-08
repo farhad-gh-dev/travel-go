@@ -1,6 +1,9 @@
+$banner_bg_color: rgba(99, 99, 99, 0.16);
+$read_more_border_color: rgba(0, 0, 0, 0.5);
+
 .header{
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 
@@ -9,25 +12,148 @@
         padding: 0 25px;
         flex-grow: 1;
 
-        .banner-bg-color{
-            padding: 50px;
-            height: 100%;
-            padding: 0;
-            padding-top: 280px;
-            
+        .small-screen-title{
+            padding: 40px 40px 0 0;
+            font-size: 2rem;
+            opacity: 0;
 
-            div{
-                height: 100%;
-                background-color: #b6b6b6;
+            @include md-size(){
+                opacity: 1;
+            }
+        }
+
+        .banner-bg-color{
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            height: 80%;
+            width: calc(100% - 40px);
+            padding: 0px 60px 50px;
+            background-color: $banner_bg_color;
+
+            @include xl-size(){
+                height: 70%;
+            }
+
+            @include lg-size(){
+                height: 65%;
+            }
+            
+            .title{
+                font-size: 4rem;
+                transform: translateY(-2.8rem);
+
+                @include xl-size(){
+                    font-size: 3.2rem;
+                    transform: translateY(-2.2rem);
+                }
+
+                @include lg-size(){
+                    font-size: 2.3rem;
+                    transform: translateY(-1.7rem);
+                }
+
+                @include md-size(){
+                    opacity: 0;
+                }
+            }
+
+            .description{
+                font-size: 35px;
+                font-weight: 300;
+                line-height: 3.8rem;
+                margin-top: 3.2rem;
+
+                @include xl-size(){
+                    font-size: 25px;
+                    line-height: 3rem;
+                    margin-top: 2.6rem;
+                }
+    
+                @include lg-size(){
+                    font-size: 22px;
+                    line-height: 2.6rem;
+                    margin-top: 2rem;
+                }
+            }
+
+            .read-more-des{
+                margin-top: 60px;
+                
+                @include lg-size(){
+                    font-size: 0.85rem;
+                }
+
+                @include sm-size(){
+                    margin-top: 0;
+                    position: absolute;
+                    top: 20px;
+                    right: 30px;
+                }
+            }
+
+            .read-more-btn{
+                display: inline-block;
+                position: relative;
+                
+                &::before{
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    right: 0;
+                    height: 2px;
+                    width: calc(100% + 15px);
+                    background-color: $read_more_border_color;
+
+                    @include xl-size(){
+                        height: 1.5px;
+                    }
+                }
+
+                &::after{
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: calc(100% + 18px);;
+                    width: 2px;
+                    background-color: $read_more_border_color;
+
+                    @include xl-size(){
+                        width: 1.5px;
+                    }
+                }
+
+                .btn-model{
+                    font-size: 1.2rem;
+                    padding: 15px 45px 15px 30px;
+
+                    @include xl-size(){
+                        font-size: 1.1rem;
+                    }
+
+                    @include lg-size(){
+                        font-size: 1rem;
+                    }
+                }
+
             }
         }
 
         .banner-image{
             position: absolute;
-            top: 0;
+            bottom: 0;
             right: 0;
             height: 100%;
-            
+
+            @include xl-size(){
+                height: 86%;
+            }
+
+            @include lg-size(){
+                height: 80%;
+            }
         }
     }
 }
