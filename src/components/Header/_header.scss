@@ -2,7 +2,7 @@ $banner_bg_color: rgba(99, 99, 99, 0.16);
 $read_more_border_color: rgba(0, 0, 0, 0.5);
 
 .header{
-    width: 100vw;
+    width: 100%;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -14,11 +14,40 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
 
         .small-screen-title{
             padding: 40px 40px 0 0;
-            font-size: 2rem;
-            opacity: 0;
+            margin-left: 15px;
+            display: none;
 
             @include md-size(){
+                display: block;
                 opacity: 1;
+            }
+
+            @include sm-size(){
+                margin-left: 0;
+                padding-top: 20px;
+            }
+            
+            h1{
+                font-size: 2rem;
+
+                @include xs-size(){
+                    font-size: 1.6rem;
+                }
+            }
+
+            div{
+                display: none;
+                opacity: 0;
+                margin-top: 12px;
+                @include md-size(){
+                    opacity: 1;
+                    display: block;
+                }
+
+                @include sm-size(){
+                    opacity: 0;
+                    display: none;
+                }
             }
         }
 
@@ -29,7 +58,7 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
             transform: translateX(-50%);
             height: 80%;
             width: calc(100% - 40px);
-            padding: 0px 60px 50px;
+            padding: 0px 60px;
             background-color: $banner_bg_color;
 
             @include xl-size(){
@@ -38,6 +67,7 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
 
             @include lg-size(){
                 height: 65%;
+                padding: 0px 20px;
             }
             
             .title{
@@ -60,6 +90,7 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
             }
 
             .description{
+                display: block;
                 font-size: 35px;
                 font-weight: 300;
                 line-height: 3.8rem;
@@ -73,8 +104,12 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
     
                 @include lg-size(){
                     font-size: 22px;
-                    line-height: 2.6rem;
+                    line-height: 2rem;
                     margin-top: 2rem;
+                }
+
+                @include md-size(){
+                    display: none;
                 }
             }
 
@@ -85,17 +120,38 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
                     font-size: 0.85rem;
                 }
 
+                @include md-size(){
+                    opacity: 0;
+                }
+
                 @include sm-size(){
+                    opacity: 1;
+                    font-size: 1.1rem;
+                    text-transform: capitalize;
                     margin-top: 0;
                     position: absolute;
-                    top: 20px;
-                    right: 30px;
+                    top: -15px;
+                    right: 20px;
                 }
             }
 
             .read-more-btn{
                 display: inline-block;
                 position: relative;
+
+                @include md-size(){
+                    opacity: 0;
+                }
+
+                @include sm-size(){
+                    opacity: 1;
+                    margin-top: 0;
+                    position: absolute;
+                    top: 15px;
+                    right: 15px;
+                }
+
+                
                 
                 &::before{
                     content: '';
@@ -108,6 +164,10 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
 
                     @include xl-size(){
                         height: 1.5px;
+                    }
+
+                    @include sm-size(){
+                        height: 1px;
                     }
                 }
 
@@ -123,6 +183,10 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
                     @include xl-size(){
                         width: 1.5px;
                     }
+
+                    @include sm-size(){
+                        width: 1px;
+                    }
                 }
 
                 .btn-model{
@@ -134,6 +198,11 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
                     }
 
                     @include lg-size(){
+                        font-size: 1rem;
+                    }
+
+                    @include md-size(){
+                        padding: 8px 15px;
                         font-size: 1rem;
                     }
                 }
@@ -149,10 +218,6 @@ $read_more_border_color: rgba(0, 0, 0, 0.5);
 
             @include xl-size(){
                 height: 86%;
-            }
-
-            @include lg-size(){
-                height: 80%;
             }
         }
     }

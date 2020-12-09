@@ -8,7 +8,7 @@ import InstagramIcon from '../../images/icons/instagram.svg';
 import FacebookIcon from '../../images/icons/facebook.svg';
 
 export default function Navbar() {
-    const [searchIsVisible, setSearchIsVisible] = useState(true);
+    const [searchIsVisible, setSearchIsVisible] = useState(false);
 
     const navbarLinks = [
         {to: '/about', text: 'About'},
