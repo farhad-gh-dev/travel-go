@@ -1,27 +1,10 @@
 import React, {useState} from 'react';
-import {Link} from 'gatsby'
+import {Link} from 'gatsby';
 
-import Logo from '../../images/travel-go-icon.png';
 import SearchIcon from '../../images/icons/search.svg';
-import TwitterIcon from '../../images/icons/twitter.svg';
-import InstagramIcon from '../../images/icons/instagram.svg';
-import FacebookIcon from '../../images/icons/facebook.svg';
 
-export default function Navbar() {
+export default function Navbar({navbarLinks, socialMediaIcons, Logo}) {
     const [searchIsVisible, setSearchIsVisible] = useState(false);
-
-    const navbarLinks = [
-        {to: '/about', text: 'About'},
-        {to: '/blog', text: 'Blog'},
-        {to: '/gallery', text: 'Gallery'},
-        {to: '/books', text: 'Books'},
-    ];
-
-    const socialMediaIcons = [
-        {to: '#', icon: TwitterIcon, alt: 'twitter-icon'},
-        {to: '#', icon: InstagramIcon, alt: 'instagram-icon'},
-        {to: '#', icon: FacebookIcon, alt: 'facebook-icon'}
-    ]
 
     return (
         <div className="navbar-container">

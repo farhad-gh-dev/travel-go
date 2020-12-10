@@ -1,12 +1,12 @@
 import React from 'react'
 
 import Navbar from '../Navbar/Navbar';
-import BannerImage from '../../images/japanese-castle.png';
+import {Logo, navbarLinks, socialMediaIcons, BannerImage} from '../../data/HomePageData'
 
 export default function Header() {
     return (
         <div className="header">
-            <Navbar />
+            <Navbar navbarLinks={navbarLinks} socialMediaIcons={socialMediaIcons} Logo={Logo}/>
 
             <div className="banner mt-2">
                 <div className="small-screen-title">
