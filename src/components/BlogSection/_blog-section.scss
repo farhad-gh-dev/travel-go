@@ -1,0 +1,33 @@
+.blog-section {
+  .head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    .title {
+      font-size: 2.5rem;
+      text-transform: capitalize;
+    }
+  }
+
+  .posts-by-title {
+    .title {
+      padding: 0 10px;
+
+      div {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 1.1rem;
+        letter-spacing: 3px;
+        background-color: rgba(0, 0, 0, 0.07);
+        border-radius: 5px;
+        border: 2px solid transparent;
+
+        &.black-border {
+          background-color: #fff;
+          border: 2px solid rgba(0, 0, 0, 0.3);
+        }
+      }
+    }
+  }
+}
