@@ -1,11 +1,18 @@
+$secondary_color: #7851a9;
+
 * {
   box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
   padding: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgba(#ffffff, 0.06);
 }
 
 h1 {
@@ -15,6 +22,46 @@ h1 {
 input {
   &:focus {
     outline: 0;
+  }
+}
+
+.t-secondary {
+  color: #7851a9;
+}
+
+.bg-secondary {
+  background-color: #7851a9;
+}
+
+.section-paddings {
+  &.py1 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  &.py2 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  &.py3 {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+}
+
+.margins {
+  &.mb1 {
+    margin-bottom: 30px;
+  }
+  &.mb2 {
+    margin-bottom: 50px;
+  }
+  &.mb3 {
+    margin-bottom: 70px;
+  }
+  &.mb4 {
+    margin-bottom: 100px;
   }
 }
 

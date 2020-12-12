@@ -1,138 +1,136 @@
-.navbar-container{
-    padding: 30px 40px 0;
-    z-index: 1000;
+.navbar-container {
+  padding: 30px 40px 0;
+  z-index: 1000;
 
-    @include sm-size(){
-        padding: 25px 30px 25px 20px
+  @include sm-size() {
+    padding: 25px 30px 25px 20px;
+  }
+
+  .header-navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo-container {
+      img {
+        width: 60px;
+
+        @include md-size() {
+          width: 50px;
+        }
+
+        @include sm-size() {
+          width: 45px;
+        }
+
+        @include xs-size() {
+          width: 30px;
+        }
+      }
     }
 
-    .header-navbar{
+    .navbar-links {
+      .navbar-link {
+        padding: 10px 8px;
+        display: inline-block;
+        margin-left: 20px;
+        text-transform: uppercase;
+        font-size: 1.2rem;
+        border-bottom: 2px solid transparent;
+        transition: 0.2s ease-in-out;
+
+        @include sm-size() {
+          font-size: 0.9rem;
+          margin-left: 10px;
+          padding: 8px 6px;
+        }
+
+        @include xs-size() {
+          font-size: 0.8rem;
+          padding: 6px 4px;
+          margin-left: 8px;
+        }
+
+        &:hover {
+          text-decoration: none;
+          border-bottom: 2px solid $secondary_color;
+          color: rgb(180, 180, 180);
+        }
+      }
+
+      .search-panel {
         position: relative;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        
-    
-        .logo-container{
-    
-            img{
-                width: 60px;
+        display: inline-block;
+        z-index: 0;
 
-                @include md-size(){
-                    width: 50px;
-                }
-
-                @include sm-size(){
-                    width: 45px;
-                }
-
-                @include xs-size(){
-                    width: 30px;
-                }
-            }
+        @include sm-size() {
+          position: absolute;
+          right: 0;
+          top: 45px;
         }
-    
-        .navbar-links{
-            .navbar-link{
-                padding: 10px 8px;
-                display: inline-block;
-                margin-left: 20px;
-                text-transform: uppercase;
-                font-size: 1.2rem;
-                border-bottom: 1px solid transparent;
-                transition: 0.2s ease-in-out;
 
-                @include sm-size(){
-                    font-size: 0.9rem;
-                    margin-left: 10px;
-                    padding: 8px 6px;
-                }
-
-                @include xs-size(){
-                    font-size: 0.8rem;
-                    padding: 6px 4px;
-                    margin-left: 8px;
-                }
-    
-                &:hover{
-                    text-decoration: none;
-                    border-bottom: 1px solid black;
-                    color: rgb(180, 180, 180);
-                }
-            }
-
-            .search-panel{
-                position: relative;
-                display: inline-block;
-                z-index: 0;
-
-                @include sm-size(){
-                    position: absolute;
-                    right: 0;
-                    top: 45px;
-                }
-                
-                img{
-                    width: 25px;
-                    z-index: 1000;
-                }
-
-                .search-input{
-                    position: absolute;
-                    top:50%;
-                    right: 40px;
-                    width: 0;
-                    transform: translateY(-50%);
-                    opacity: 0;
-                    border-radius: 8px;
-                    border-color: rgba(0, 0, 0, 0.3);
-                    transition: 0.3s ease-in-out;
-                    padding: 2px 10px;
-
-                    &.visible{
-                        width: 200px;
-                        opacity: 1;
-                    }
-                }
-            }
+        img {
+          width: 25px;
+          z-index: 1000;
         }
-    
-        .social-media{
-            display: flex;
-            flex-direction: column;
-            position: absolute;
-            top: 0;
-            left: 50%;
-            transform: translateX(-50%);
 
-            @include xl-size(){
-                top: 120px;
-                left: auto;
-                right: 0;
-                transform: translateX(0);
-            }
+        .search-input {
+          position: absolute;
+          top: 50%;
+          right: 40px;
+          width: 0;
+          transform: translateY(-50%);
+          opacity: 0;
+          border-radius: 8px;
+          border-color: rgba(0, 0, 0, 0.3);
+          transition: 0.3s ease-in-out;
+          padding: 2px 10px;
 
-            @include lg-size (){
-                top: 140px;
-            }
-
-            @include sm-size(){
-                top: 100px
-            }
-
-            .vertical-bar{
-                width: 100%;
-                display: flex;
-                justify-content: center;
-                border-radius: 100%;
-                overflow: hidden;
-
-                div{
-                    width: 2px;
-                    height: 40px;
-                    background-color: #444;                    
-                }
-            }
+          &.visible {
+            width: 200px;
+            opacity: 1;
+          }
         }
+      }
     }
+
+    .social-media {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+
+      @include xl-size() {
+        top: 120px;
+        left: auto;
+        right: 0;
+        transform: translateX(0);
+      }
+
+      @include lg-size() {
+        top: 140px;
+      }
+
+      @include sm-size() {
+        top: 100px;
+      }
+
+      .vertical-bar {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        border-radius: 100%;
+        overflow: hidden;
+
+        div {
+          width: 2px;
+          height: 40px;
+          background-color: $secondary_color;
+        }
+      }
+    }
+  }
 }

@@ -15,7 +15,7 @@ import ItalyImage from "../images/cities-images/italy.jpg"
 //Header component data
 const navbarLinks = [
   { to: "/about", text: "About" },
-  { to: "/blog", text: "Blog" },
+  { to: "#blog-section", text: "Blog" },
   { to: "/gallery", text: "Gallery" },
   { to: "/books", text: "Books" },
 ]
