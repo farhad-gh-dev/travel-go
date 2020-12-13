@@ -54,14 +54,57 @@ input {
   &.mb1 {
     margin-bottom: 30px;
   }
+  &.mb1-sm {
+    @include b-sm-size() {
+      margin-bottom: 30px;
+    }
+  }
+  &.mb1-md {
+    @include b-md-size() {
+      margin-bottom: 30px;
+    }
+  }
+
   &.mb2 {
     margin-bottom: 50px;
   }
+  &.mb2-sm {
+    @include b-sm-size() {
+      margin-bottom: 50px;
+    }
+  }
+  &.mb2-md {
+    @include b-md-size() {
+      margin-bottom: 50px;
+    }
+  }
+
   &.mb3 {
     margin-bottom: 70px;
   }
+  &.mb3-sm {
+    @include b-sm-size() {
+      margin-bottom: 70px;
+    }
+  }
+  &.mb3-md {
+    @include b-md-size() {
+      margin-bottom: 70px;
+    }
+  }
+
   &.mb4 {
     margin-bottom: 100px;
+  }
+  &.mb4-sm {
+    @include b-sm-size() {
+      margin-bottom: 100px;
+    }
+  }
+  &.mb4-md {
+    @include b-md-size() {
+      margin-bottom: 100px;
+    }
   }
 }
 

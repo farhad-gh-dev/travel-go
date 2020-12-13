@@ -13,7 +13,7 @@ const IndexPage = () => (
     <Header />
     <CitiesImages />
     {/* <About /> */}
-    <BlogSection />
+    {/* <BlogSection /> */}
     <Books />
     <div style={{ height: "400px" }}></div>
   </div>
