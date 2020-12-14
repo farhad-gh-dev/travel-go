@@ -6,6 +6,7 @@ import CitiesImages from "../components/CitiesImages/CitiesImages"
 // import About from "../components/About/About"
 import BlogSection from "../components/BlogSection/BlogSection"
 import Books from "../components/Books/Books"
+import Footer from "../components/Footer/Footer"
 
 const IndexPage = () => (
   <div className="home">
@@ -15,7 +16,7 @@ const IndexPage = () => (
     {/* <About /> */}
     {/* <BlogSection /> */}
     <Books />
-    <div style={{ height: "400px" }}></div>
+    <Footer />
   </div>
 )
 

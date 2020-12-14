@@ -7,7 +7,7 @@ const BookCard = ({ itemData }) => {
   return (
     <div className="book-container row margins mb4">
       <div
-        className={`col-12 col-md-4 px-3 px-xs-5 px-md-2 px-lg-3 ${
+        className={`col-12 col-md-4 px-5 px-xs-5 px-md-2 px-lg-3 ${
           itemData.imagePosition === "left" ? "order-1" : "order-1 order-md-2"
         }`}
       >
@@ -20,9 +20,9 @@ const BookCard = ({ itemData }) => {
       <div
         className={`col-12 col-md-8 ${
           itemData.imagePosition === "left" ? "order-2" : "order-2 order-md-1"
-        } px-3 px-md-3 px-lg-5`}
+        } px-3 px-sm-4 px-md-3 px-lg-5`}
       >
-        <div className="title text-capitalize margins mb2 mb4-md">
+        <div className="title text-capitalize margins mb2 mb4-xl">
           {itemData.title}
         </div>
         <div className="about-book margins mb1 font-weight-bold">
@@ -70,7 +70,7 @@ export default function Books() {
   return (
     <div className="books container-fluid section-paddings py3">
       <div className="col-12 col-lg-10 col-xl-8 mx-auto">
-        <h3 className="section-title text-center text-capitalize display-3 margins mb4">
+        <h3 className="section-title text-center text-capitalize margins mb4">
           checkout this books
         </h3>
         {BooksData.map(itemData => {

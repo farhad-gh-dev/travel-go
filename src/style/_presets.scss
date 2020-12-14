@@ -64,6 +64,16 @@ input {
       margin-bottom: 30px;
     }
   }
+  &.mb1-lg {
+    @include b-lg-size() {
+      margin-bottom: 30px;
+    }
+  }
+  &.mb1-xl {
+    @include b-xl-size() {
+      margin-bottom: 30px;
+    }
+  }
 
   &.mb2 {
     margin-bottom: 50px;
@@ -75,6 +85,16 @@ input {
   }
   &.mb2-md {
     @include b-md-size() {
+      margin-bottom: 50px;
+    }
+  }
+  &.mb2-lg {
+    @include b-lg-size() {
+      margin-bottom: 50px;
+    }
+  }
+  &.mb2-xl {
+    @include b-xl-size() {
       margin-bottom: 50px;
     }
   }
@@ -92,6 +112,16 @@ input {
       margin-bottom: 70px;
     }
   }
+  &.mb3-lg {
+    @include b-lg-size() {
+      margin-bottom: 70px;
+    }
+  }
+  &.mb3-xl {
+    @include b-xl-size() {
+      margin-bottom: 70px;
+    }
+  }
 
   &.mb4 {
     margin-bottom: 100px;
@@ -103,6 +133,16 @@ input {
   }
   &.mb4-md {
     @include b-md-size() {
+      margin-bottom: 100px;
+    }
+  }
+  &.mb4-lg {
+    @include b-lg-size() {
+      margin-bottom: 100px;
+    }
+  }
+  &.mb4-xl {
+    @include b-xl-size() {
       margin-bottom: 100px;
     }
   }

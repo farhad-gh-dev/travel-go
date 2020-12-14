@@ -1,6 +1,7 @@
 .books {
   .section-title {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
+    font-weight: 300;
 
     @include md-size() {
       font-size: 3.5rem;
@@ -18,7 +19,7 @@
     }
 
     .title {
-      font-size: 3.5rem;
+      font-size: 3rem;
       text-transform: capitalize;
       font-weight: 300;
 
@@ -27,11 +28,27 @@
       }
 
       @include md-size() {
-        font-size: 3rem;
+        font-size: 2.5rem;
       }
 
       @include sm-size() {
-        font-size: 2rem;
+        font-size: 1.8rem;
+      }
+    }
+
+    .about-book {
+      font-size: 1rem;
+
+      @include sm-size() {
+        font-size: 0.9rem;
+      }
+    }
+
+    .content-sample {
+      font-size: 1rem;
+
+      @include sm-size() {
+        font-size: 0.9rem;
       }
     }
   }

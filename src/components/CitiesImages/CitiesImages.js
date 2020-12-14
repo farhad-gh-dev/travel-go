@@ -14,9 +14,12 @@ const ImageCard = ({ cityData, direction }) => {
           >
             <div className="image-container w-100">
               <img src={city.image} alt={city.imageAlt} className="w-100" />
-              <div className="image-shadow" style={city.imageShadowColor}></div>
+              <div
+                className="image-shadow"
+                style={{ backgroundColor: city.imageShadowColor }}
+              ></div>
             </div>
-            <div className="city-name">
+            <div className="city-name" style={{ color: city.nameColor }}>
               {city.name.split("").map(letter => (
                 <span>{letter}</span>
               ))}

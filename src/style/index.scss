@@ -2,6 +2,8 @@
 @import "./presets";
 @import "./pages";
 
+@import "./404";
+
 // COMPONENTS
 @import "../components/Header/header";
 @import "../components/Navbar/navbar";
@@ -9,3 +11,4 @@
 @import "../components/About/about";
 @import "../components/BlogSection/blog-section";
 @import "../components/Books/books";
+@import "../components/Footer/footer.scss";
