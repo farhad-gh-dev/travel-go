@@ -18,4 +18,69 @@
     background-color: rgba(0, 0, 0, 0.5);
     z-index: -100;
   }
+
+  .text-area {
+    .container-404 {
+      font-size: 13rem;
+
+      @include lg-size() {
+        font-size: 10rem;
+      }
+
+      @include sm-size() {
+        font-size: 8rem;
+      }
+    }
+
+    .container-text {
+      font-size: 5.5rem;
+      line-height: 7rem;
+
+      @include lg-size() {
+        font-size: 4.5rem;
+        line-height: 6rem;
+      }
+
+      @include md-size() {
+        padding: 0 50px;
+        font-size: 3.5rem;
+        line-height: normal;
+      }
+
+      @include sm-size() {
+        padding: 0 20px;
+        font-size: 2.5rem;
+      }
+    }
+
+    .container-link {
+      .link {
+        font-size: 1.8rem;
+        color: #00e5ff;
+
+        @include sm-size() {
+          font-size: 1.3rem;
+        }
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+      .brand {
+        font-size: 1.5rem;
+
+        @include sm-size() {
+          font-size: 1.2rem;
+        }
+
+        .image {
+          width: 50px;
+
+          @include sm-size() {
+            width: 30px;
+          }
+        }
+      }
+    }
+  }
 }
