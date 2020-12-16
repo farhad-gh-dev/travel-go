@@ -1,83 +1,58 @@
-import React, { useState } from "react"
-import { Link } from "gatsby"
+import React from "react"
 
-import ParisImage from "../../images/blog/paris.png"
-import ThailandImage from "../../images/blog/thailand.png"
-import MexicoImage from "../../images/blog/mexico.png"
-import GermanyImage from "../../images/blog/germany.png"
+import JapanImage from "../../images/blog/japan.jpg"
+import DubaiImage from "../../images/blog/dubai.jpg"
+import LondonImage from "../../images/blog/london.jpg"
 
 export default function BlogSection() {
-  const [slideToShow, setSlideToShow] = useState("paris")
-
-  const testData = {
-    paris: {
-      title: "things you need to know before going to paris",
-      headerImage: ParisImage,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident iste odit sint et labore, aliquam illum ex reprehenderit harum nulla voluptas natus fugiat ratione voluptate molestiae cumque ipsam nesciunt eaque blanditiis saepe. Laboriosam illum voluptatum quas a eum optio deleniti beatae? Officia, sint. Amet optio aliquid ea voluptates, nisi vitae quae non veritatis, commodi nostrum quia, quod mollitia rerum nobis.",
+  const postsData = [
+    {
+      image: JapanImage,
+      title: "japan streets at night",
+      mainText: `The Land of the Rising Sun is a country where the past meets
+    the future. Japanese culture stretches back millennia, yet has
+    also been quick to adopt and created the latest modern
+    fashions and trends..`,
     },
-    thailand: {
-      title: "wandring where you wanna go?",
-      headerImage: ThailandImage,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident iste odit sint et labore, aliquam illum ex reprehenderit harum nulla voluptas natus fugiat ratione voluptate molestiae cumque ipsam nesciunt eaque blanditiis saepe. Laboriosam illum voluptatum quas a eum optio deleniti beatae? Officia, sint. Amet optio aliquid ea voluptates, nisi vitae quae non veritatis, commodi nostrum quia, quod mollitia rerum nobis.",
+    {
+      image: DubaiImage,
+      title: "Where to Stay in Dubai",
+      mainText:
+        "Dubai is unlike anywhere else on the planet. With its bold architecture and audacious style, the United Arab Emirates’ largest city is a distinct fusion of its Bedouin heritage and an ultramodern style all its own.",
     },
-    germany: {
-      title: "things you need to know before going to paris",
-      headerImage: GermanyImage,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident iste odit sint et labore, aliquam illum ex reprehenderit harum nulla voluptas natus fugiat ratione voluptate molestiae cumque ipsam nesciunt eaque blanditiis saepe. Laboriosam illum voluptatum quas a eum optio deleniti beatae? Officia, sint. Amet optio aliquid ea voluptates, nisi vitae quae non veritatis, commodi nostrum quia, quod mollitia rerum nobis.",
+    {
+      image: LondonImage,
+      title: "thing to do in london on a budget",
+      mainText: `The capital of the United Kingdom is a thriving multicultural metropolis. The contrast between the spectacular historic sights and the lively cultural scene makes a visit to London an interesting and exciting adventure. Wander through St. James park, visit Westminster Abbey, explore the streets of Shoreditch, and take a ride up the River Thames.`,
     },
-    mexico: {
-      title: "things you need to know before going to paris",
-      headerImage: MexicoImage,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident iste odit sint et labore, aliquam illum ex reprehenderit harum nulla voluptas natus fugiat ratione voluptate molestiae cumque ipsam nesciunt eaque blanditiis saepe. Laboriosam illum voluptatum quas a eum optio deleniti beatae? Officia, sint. Amet optio aliquid ea voluptates, nisi vitae quae non veritatis, commodi nostrum quia, quod mollitia rerum nobis.",
-    },
-  }
+  ]
 
   return (
-    <div className="blog-section container-fluid" id="blog-section">
-      <div className="section-container col-9 mx-auto">
-        <div className="head">
-          <h3 className="title font-weight-normal">blog</h3>
-          <Link to="/blog" className="text-capitalize">
-            see all posts
-          </Link>
+    <div className="blog-section section-paddings py2">
+      <div className="col-8 mx-auto">
+        <div className="text-center mb-5">
+          <h3 className="section-title text-capitalize">our blog</h3>
         </div>
-        <div className="posts-by-title row">
-          {Object.keys(testData).map((title, index) => {
+        <div className="cards-container row">
+          {postsData.map(post => {
             return (
-              <div className="title col-3 text-center text-uppercase">
-                <div
-                  className={`${slideToShow === title ? "black-border" : ""}`}
-                  onClick={() => {
-                    setSlideToShow(title)
-                  }}
-                >
-                  {title}
+              <div className="col-4 px-4">
+                <div className="post-card text-light shadow">
+                  <img
+                    src={post.image}
+                    alt="japan-at-night"
+                    className="w-100"
+                  />
+                  <div className="card-text d-flex flex-column justify-content-center align-items-center text-center">
+                    <h4 className="post-title font-weight-light text-capitalize mb-5 px-5">
+                      {post.title}
+                    </h4>
+                    <p className="px-4">{post.mainText}</p>
+                  </div>
                 </div>
               </div>
             )
           })}
-        </div>
-        <div className="blog-post row mt-5">
-          <div className="blog-image col-8">
-            <img
-              src={testData[slideToShow].headerImage}
-              alt="paris-image"
-              className="w-100"
-            />
-          </div>
-          <div className="text-area col-4">
-            <div className="title">{testData[slideToShow].title}</div>
-            <div className="description">
-              {testData[slideToShow].description}
-              <div className="mt-4 text-right">
-                <Link to="/post-title">Read more...</Link>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>

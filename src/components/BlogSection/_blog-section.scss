@@ -1,65 +1,41 @@
 .blog-section {
-  background-color: rgba(#7851a9, 0.1);
-  .section-container {
-    padding: 100px 0;
+  // background-color: rgba(#7851a9, 0.1);
+  background: rgb(255, 255, 255);
+  background-image: linear-gradient(to right bottom, #ffffff, #d9d3ec, #cfc3e9);
 
-    .head {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-end;
-      margin: 0 0 80px;
+  .cards-container {
+    .post-card {
+      position: relative;
+      border-radius: 15px;
+      transform: scale(1);
+      transition: 0.2s ease-in-out;
+      overflow: hidden;
 
-      .title {
-        font-size: 3.5rem;
-        text-transform: capitalize;
+      &:hover {
+        transform: scale(1.05);
       }
-    }
 
-    .posts-by-title {
-      .title {
-        padding: 0 25px;
+      .card-text {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
 
-        div {
-          padding-top: 15px;
-          padding-bottom: 15px;
-          font-size: 1.1rem;
-          letter-spacing: 3px;
-          background-color: rgba(0, 0, 0, 0.07);
-          border-radius: 5px;
-          border: 2px solid transparent;
-          cursor: pointer;
-          transition: 0.2s ease-in-out;
-
-          &.black-border {
-            background-color: #fff;
-            border: 2px solid rgba(0, 0, 0, 0.3);
-          }
+        &::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background-color: rgba(0, 0, 0, 0.5);
+          z-index: -100;
         }
-      }
-    }
 
-    .blog-post {
-      .blog-image {
-        transition: 0.3s ease-in-out;
-        img {
-          transition: 0.3s ease-in-out;
-        }
-      }
-
-      .text-area {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        padding: 40px 0 40px 20px;
-
-        .title {
-          margin-bottom: 35px;
-          text-transform: capitalize;
+        .post-title {
           font-size: 2.5rem;
-          font-weight: lighter;
-        }
-        .description {
-          font-size: 1.2rem;
         }
       }
     }

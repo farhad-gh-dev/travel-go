@@ -1,17 +1,4 @@
 .books {
-  .section-title {
-    font-size: 3.5rem;
-    font-weight: 300;
-
-    @include md-size() {
-      font-size: 3.5rem;
-    }
-
-    @include sm-size() {
-      font-size: 2.5rem;
-    }
-  }
-
   .book-container {
     .book-image {
       border-radius: 10px;
