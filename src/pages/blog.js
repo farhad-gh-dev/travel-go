@@ -12,7 +12,7 @@ export default function blog() {
       <Navbar
         navbarLinks={navbarLinks}
         socialMediaIcons={socialMediaIcons}
-        Logo={Logo}
+        logo={Logo}
       />
       <SEO title="Travel Go | Blog" />
       <div className="container py-5">

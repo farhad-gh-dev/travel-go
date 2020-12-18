@@ -39,6 +39,7 @@
         font-size: 1.2rem;
         border-bottom: 2px solid transparent;
         transition: 0.2s ease-in-out;
+        color: rgba(0, 0, 0, 0.8);
 
         @include sm-size() {
           font-size: 0.9rem;
@@ -129,6 +130,42 @@
           width: 2px;
           height: 40px;
           background-color: $secondary_color;
+        }
+      }
+    }
+  }
+
+  &.dark-mode {
+    .header-navbar {
+      .logo-container {
+        img {
+          filter: invert(1);
+        }
+      }
+
+      .navbar-links {
+        .navbar-link {
+          color: rgba(255, 255, 255, 0.9);
+        }
+
+        .search-panel {
+          img {
+            filter: invert(1);
+          }
+        }
+      }
+
+      .social-media {
+        .social-media-icons {
+          img {
+            filter: invert(0.85);
+          }
+        }
+
+        .vertical-bar {
+          div {
+            background-color: lighten($color: $secondary_color, $amount: 8);
+          }
         }
       }
     }
