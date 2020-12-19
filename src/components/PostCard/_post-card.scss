@@ -1,0 +1,17 @@
+.post-card {
+  .post-image {
+    height: 300px;
+
+    .image-container {
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+  }
+
+  .post-text {
+    .post-details {
+      color: hsl(0, 0%, 65%);
+    }
+  }
+}

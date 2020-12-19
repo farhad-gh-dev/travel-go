@@ -1,17 +1,18 @@
 ---
-date: "2017-11-09"
+date: "2020-12-19"
 writer: "abbey tiara"
 writerAvatar: "https://mediaslide-europe.storage.googleapis.com/premier/pictures/1824/3772/profile-d5a35156cabc570577e398508cbf2afb.jpg"
 title: "Incredible Things To Do In Uluru And Kata Tjuta"
 description: "Australia is a huge country with many things to offer for travelers who have the time to really dive deep into all the things Australia has to offer from the wild and colorful landscapes like the aqua blue water..."
 bannerImage: "https://www.bonnyair.com/wp-content/uploads/2020/03/Travel-to-Australia.png"
+contentSource: "https://www.bucketlistly.blog/posts/uluru-kata-tjuta-backpacking-things-to-do#day-2-uluru-sunrise-cultural-base-walk-and-astro-tour"
 ---
 
 <h3 class="h2 font-weight-light mb-3">Travel Insurance For Australia</h3>
 <div>
 <p>If you are looking for a travel insurance to go along with your trip to Australia, I would recommend&nbsp;<a href="https://www.worldnomads.com/Turnstile/AffiliateLink?partnerCode=blbe9200&amp;utm_source=blbe9200&amp;source=link&amp;utm_content=link&amp;path=https://www.worldnomads.com/" target="_blank" rel="nofollow noopener">WorldNomads.com</a>, which is what I use to look for a travel insurance that fits my kind of adventure. They have a simple and flexible search system that allowed me to find the right insurance for the right amount of time at an affordable price in seconds. If you need a travel insurance, give WorldNomads.com a try.</p>
 <div class="px-3 py-2">
-    <img src='https://www.fodors.com/wp-content/uploads/2020/02/aussie-hero.jpg' class="w-100"/>
+<img src='https://www.fodors.com/wp-content/uploads/2020/02/aussie-hero.jpg' class="w-100"/>
 </div>
 <br />
 <br />
@@ -32,6 +33,9 @@ bannerImage: "https://www.bonnyair.com/wp-content/uploads/2020/03/Travel-to-Aust
 <li><strong>Daypack</strong>:&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://herschel.com/shop/backpacks/herschel-little-america-backpack?v=10014-00007-OS" target="_blank" rel="noopener nofollow">Herschel Supply Little America Backpack</a>&nbsp;is my go-to daypack. It's large enough to carry all my travel gear, it comes in many amazing colors, and it is stylish as hell!</li>
 <li><strong>Large Backpack</strong>: You will need a large backpack to carry all of this stuff with you. I recommend you get the&nbsp;<a href="https://amzn.to/2QHxliW" target="_blank" rel="noopener nofollow">Osprey Atmos AG 65L backpack</a>. With the excellent weight distribution and the lifetime guarantee, you can never go wrong with Osprey.</li>
 </ul>
+<div class="px-3 py-2">
+<img src='https://d21c25674tgiqk.cloudfront.net/2011/04/Gold-coast.jpg' class="w-100"/>
+</div>
 <br />
 <br />
 
@@ -41,5 +45,24 @@ bannerImage: "https://www.bonnyair.com/wp-content/uploads/2020/03/Travel-to-Aust
 <p>On my first evening I decided to go on the Valley of the Winds walk tour by the AAT Kings company. On my way to climb the Kata Tjuta.</p>
 <p>The Kata Tjuta on my first stop. It may look small now but you will see soon enough that that is not the case. This was also when I first experienced the infamous swarm of flies of the Australian outback. Boy it was annoying!</p>
 </div>
+<div class="px-3 py-2">
+<img src='https://content.api.news/v3/images/bin/2634d13ec80f540f93fca7b80aef1775?width=1280' class="w-100"/>
+</div>
 <br />
 <br />
+
+<p>Here's the first outlook post where our group was split into two for two different walks, a longer harder climb to the second outlook or an easier walk around the base. I chose the long walk. I was stunned to see so many lives in the middle of the desert. It was like a forest inside the canyon.&nbsp;After a pretty steep climb (at one point there was no walkway, you literally have to climb a steep hill with your hands) we were met with this smiley face on the side of the Kata Tjuta.</p>
+<p>At the end of the tour, our guide took us to the sunset viewing spot and served us sparkling wines and snacks. I did exchange a couple of great conversations, first with a Korean couple who were curious which part of Asia I came from. They were quite surprised that I was Thai and traveling alone. Another was 2 ladies from Sydney who expressed a great interest in climbing the Himalayas. Naturally, I encouraged them to go for it.&nbsp;At night, I went to the same outlook behind our lodge again but this time with a tripod. Because there was no air and light pollution from civilization, I was able to see part of the Milky Way's trail that strikes upward from Uluru. At night, I went to the same outlook behind our lodge again but this time with a tripod. Because there was no air and light pollution from civilization, I was able to see part of the Milky Way's trail that strikes upward from Uluru.</p>
+<div class="px-3 py-2">
+<img src='https://www.qantas.com/content/travelinsider/en/experiences/nature/nature-park-australia-tasmanian-devil-koala-kangaroo/_jcr_content/parsysTop/hero.img.full.medium.jpg/1584425955165.jpg' class="w-100"/>
+</div>
+<br />
+<br />
+
+<h3 class="h2 font-weight-light mb-3">Day 2: Uluru Sunrise, Cultural Base Walk And Astro Tour</h3>
+<p>We woke up extremely early to catch a coach from the lobby to the Uluru sunrise spot. People were flocking the elevated platform, so I decided to go a less crowded route a few meters away so I can be alone with the rock. It was a good call because I was able to capture this shot without having to fight for a spot.&nbsp;There were absolutely no one around. I love it! The experience was so refreshing I consider this one of the best sunrise experience I had. Beautiful gradient sky created a perfect contrast backdrop for the red sandstone of Uluru as the sun casted its light toward the rock making it shifted colors.</p>
+<p>I met up with Aurelie and we continued down the path until we realized that we were late for our next stop, the cultural base walk. We ran like crazy and I was given a pretty deadly stare from my tour mates. Little did we know that this was the beginning of our "Always Late to Everything" saga.&nbsp;The walk started out slowly as our guide explained how the rock was formed. There was life everywhere! Trees grow mightily around the base. The ground was filled with grasses and vegetation. Nothing I anticipated for a desert.&nbsp;The complexity of the rock became clearer and clearer as I walked around the base.</p>
+<p>At the end of the tour, Nick pointed the telescopes at the moon and took off the light filter so we can take a photo of the moon with our camera. The moon was so clear you could see the moon's craters on the side.</p>
+<div class="px-3 py-2">
+<img src='https://cdn.britannica.com/64/74864-050-DBDD3227/Murray-River-Corowa-Australia-New-South-Wales.jpg' class="w-100"/>
+</div>

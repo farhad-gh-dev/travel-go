@@ -42,7 +42,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       .replace(/-/g, "_")
       .replace(/'/g, "")
     createPage({
-      path: `/blog/${postUrl}`,
+      path: postUrl ? `/blog/${postUrl}` : "/blog/bad_post",
       component: blogPostTemplate,
       context: {
         // additional data can be passed via context

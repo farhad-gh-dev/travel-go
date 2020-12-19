@@ -39,11 +39,19 @@
     }
   }
 
-  .writer-avatar {
-    width: 100px;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center top;
+  .post-body {
+    .writer-avatar {
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center top;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+
+      @include md-size() {
+        width: 70px;
+        height: 70px;
+      }
+    }
   }
 }
