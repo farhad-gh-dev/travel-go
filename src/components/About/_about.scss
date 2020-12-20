@@ -13,24 +13,5 @@
   }
 
   .about-image {
-    position: absolute;
-    top: 0;
-    right: 80px;
-
-    .image-shadow {
-      position: absolute;
-      bottom: 0px;
-      left: 50%;
-      transform: translateX(-50%);
-      height: 120%;
-      width: 110%;
-      background-color: rgba(0, 0, 0, 0.15);
-      border-radius: 5px;
-      z-index: -100;
-    }
-
-    img {
-      // border-radius: 5px;
-    }
   }
 }

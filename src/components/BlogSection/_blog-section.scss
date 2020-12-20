@@ -1,7 +1,11 @@
 .blog-section {
   // background-color: rgba(#7851a9, 0.1);
   background: rgb(255, 255, 255);
-  background-image: linear-gradient(to right bottom, #ffffff, #d9d3ec, #cfc3e9);
+  background-image: linear-gradient(
+    to right bottom,
+    #f7f4fd,
+    #d9d3ec
+  ); //linear-gradient(to right bottom, #ffffff, #d9d3ec, #cfc3e9);
 
   .cards-container {
     .post-card {

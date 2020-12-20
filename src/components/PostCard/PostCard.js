@@ -30,7 +30,7 @@ export default function PostCard({ postData }) {
         </div>
         <div className="d-flex justify-content-between text-capitalize">
           <div className="post-details">
-            by source architect on 16 december 2020
+            by {postData.writer} on {postData.date}
           </div>
           <div className="post-link">
             <Link

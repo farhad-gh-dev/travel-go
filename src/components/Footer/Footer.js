@@ -10,9 +10,13 @@ export default function Footer() {
 
   return (
     <div className="footer container-fluid">
-      <div className="row section-paddings py2">
+      <div className="row section-paddings py1">
         <div className="left-column col-12 col-md-4 order-2 order-md-1 text-center mb-5">
-          <div className="text-uppercase display-5">contact us</div>
+          <div className="text-uppercase display-5 mb-3">contact us</div>
+          <div className="text-capitalize">
+            <div className="">mail - travel.go@gmail.com </div>
+            <div className="">phone number - 903-592-0244 </div>
+          </div>
         </div>
         <div className="middle-column col-12 col-md-4 order-3 order-md-2 text-center">
           <div className="logo-container d-flex align-items-center justify-content-center mb-5">
@@ -24,9 +28,16 @@ export default function Footer() {
             </div>
           </div>
           <div className="copyright text-center text-capitalize">
-            &#169; all rights reserved to
+            designed and developed by
             <div className="font-weight-bold text-uppercase">
-              source architect
+              <a
+                href="https://github.com/source-architect"
+                target="_blank"
+                rel="nofollow noopener"
+                className="link-model"
+              >
+                source architect
+              </a>
             </div>
           </div>
         </div>

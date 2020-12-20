@@ -13,6 +13,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     `./src/templates/blogPostTemplate.js`
   )
 
+  const blogPagesTemplate = require.resolve(
+    `./src/templates/blogPagesTemplate.js`
+  )
+
   const result = await graphql(`
     {
       allMarkdownRemark(
@@ -47,6 +51,23 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         // additional data can be passed via context
         title: node.frontmatter.title,
+      },
+    })
+  })
+
+  // Create blog-list pages
+  const postsLength = result.data.allMarkdownRemark.edges.length
+  const postsPerPage = 7
+  const numPages = Math.ceil(postsLength / postsPerPage)
+  Array.from({ length: numPages }).forEach((_, i) => {
+    createPage({
+      path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+      component: blogPagesTemplate,
+      context: {
+        limit: postsPerPage,
+        skip: i * postsPerPage,
+        numPages,
+        currentPage: i + 1,
       },
     })
   })
