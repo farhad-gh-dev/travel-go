@@ -12,8 +12,8 @@ const IndexPage = () => (
   <div className="home">
     <SEO title="Home" />
     <Header />
-    <About />
     <CitiesImages />
+    <About />
     <BlogSection />
     <Books />
     <Footer />

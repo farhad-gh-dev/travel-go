@@ -47,6 +47,26 @@ input {
     padding-top: 120px;
     padding-bottom: 120px;
   }
+
+  &.px1 {
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+
+  &.px2 {
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+
+  &.px3 {
+    padding-right: 120px;
+    padding-left: 120px;
+  }
+
+  &.px3 {
+    padding-right: 120px;
+    padding-left: 120px;
+  }
 }
 
 .margins {
@@ -144,6 +164,19 @@ input {
     @include b-xl-size() {
       margin-bottom: 100px;
     }
+  }
+
+  &.mt1 {
+    margin-top: 30px;
+  }
+  &.mt2 {
+    margin-top: 50px;
+  }
+  &.mt3 {
+    margin-top: 70px;
+  }
+  &.mt4 {
+    margin-top: 100px;
   }
 }
 
