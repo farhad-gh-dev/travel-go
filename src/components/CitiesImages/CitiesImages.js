@@ -4,7 +4,7 @@ import { citiesData } from "../../data/HomePageData"
 
 const ImageCard = ({ cityData, direction }) => {
   return (
-    <div className="col-12 col-md-6">
+    <div className="col-12 col-md-6" id="gallery">
       {cityData.map((city, index) => {
         return (
           <div

@@ -31,6 +31,7 @@ export default function Navbar({
               type="text"
               placeholder="term to search"
               className={`search-input ${searchIsVisible ? "visible" : ""}`}
+              onChange={e => console.log(e.target.value)}
             />
           </div>
 
@@ -48,7 +49,7 @@ export default function Navbar({
               <div></div>
             </div>
             {socialMediaIcons.map(link => (
-              <Link to={link.to} className="icon">
+              <Link to={link.to} className="icon d-block text-right">
                 <img src={link.icon} alt={link.alt} className="mt-2" />
               </Link>
             ))}

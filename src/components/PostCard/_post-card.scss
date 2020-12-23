@@ -2,14 +2,41 @@
   .post-image {
     height: 300px;
 
+    @include sm-size() {
+      height: 230px;
+    }
+
     .image-container {
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center center;
+      transform: scale(1);
+      transition: 0.3s ease-in-out;
+
+      &:hover {
+        transform: scale(1.15);
+      }
     }
   }
 
   .post-text {
+    .post-title {
+      font-size: 2.5rem;
+      font-weight: 300;
+
+      @include lg-size() {
+        font-size: 2.2rem;
+      }
+
+      @include md-size() {
+        font-size: 2rem;
+      }
+
+      @include sm-size() {
+        font-size: 1.5rem;
+        font-weight: normal;
+      }
+    }
     .post-details {
       color: hsl(0, 0%, 65%);
     }

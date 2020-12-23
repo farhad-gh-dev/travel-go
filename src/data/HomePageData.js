@@ -14,16 +14,16 @@ import ItalyImage from "../images/cities-images/italy.jpg"
 
 //Header component data
 const navbarLinks = [
-  { to: "/about", text: "About" },
-  { to: "#blog-section", text: "Blog" },
-  { to: "/gallery", text: "Gallery" },
-  { to: "/books", text: "Books" },
+  { to: "/#about", text: "About" },
+  { to: "/blog", text: "Blog" },
+  { to: "/#gallery", text: "Gallery" },
+  { to: "/#books", text: "Books" },
 ]
 
 const socialMediaIcons = [
-  { to: "#", icon: TwitterIcon, alt: "twitter-icon" },
-  { to: "#", icon: InstagramIcon, alt: "instagram-icon" },
-  { to: "#", icon: FacebookIcon, alt: "facebook-icon" },
+  { to: "#", icon: TwitterIcon, alt: "twitter" },
+  { to: "#", icon: InstagramIcon, alt: "instagram" },
+  { to: "#", icon: FacebookIcon, alt: "facebook" },
 ]
 
 //CitiesImages component data
@@ -31,7 +31,7 @@ const citiesData = {
   leftSide: [
     {
       image: ParisImage,
-      imageAlt: "paris-image",
+      imageAlt: "paris",
       imageShadowColor: "rgb(235,232,178)",
       name: "paris",
       nameColor: "rgb(222, 178, 0)",
@@ -39,7 +39,7 @@ const citiesData = {
     },
     {
       image: ItalyImage,
-      imageAlt: "italy-image",
+      imageAlt: "italy",
       imageShadowColor: "rgb(204,214,233)",
       name: "italy",
       nameColor: "rgb(0, 141, 222)",
@@ -49,7 +49,7 @@ const citiesData = {
   rightSide: [
     {
       image: SpainImage,
-      imageAlt: "spain-image",
+      imageAlt: "spain",
       imageShadowColor: "rgb(255,217,191)",
       name: "spain",
       nameColor: "rgb(222, 90, 0)",

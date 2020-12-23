@@ -33,7 +33,7 @@ export default function Footer() {
               <a
                 href="https://github.com/source-architect"
                 target="_blank"
-                rel="nofollow noopener"
+                rel="noreferrer"
                 className="link-model"
               >
                 source architect
@@ -47,7 +47,12 @@ export default function Footer() {
             <div className="social-media-icons d-inline-block">
               {socialMediaIcons.map(icon => {
                 return (
-                  <a href="https://instagram.com" className="ml-2">
+                  <a
+                    href="https://instagram.com"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="ml-2"
+                  >
                     <img src={icon} alt="social-media-icon" />
                   </a>
                 )

@@ -57,7 +57,7 @@ $read_more_border_color: $secondary_color;
       left: 50%;
       transform: translateX(-50%);
       height: 80%;
-      width: calc(100% - 40px);
+      width: calc(100% - 90px);
       padding: 0px 60px;
       background-color: $banner_bg_color;
 
@@ -68,6 +68,11 @@ $read_more_border_color: $secondary_color;
       @include lg-size() {
         height: 65%;
         padding: 0px 20px;
+        width: calc(100% - 60px);
+      }
+
+      @include sm-size() {
+        width: calc(100% - 40px);
       }
 
       .title {

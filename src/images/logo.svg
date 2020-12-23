@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="535" height="535" viewBox="0 0 535 535">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="535" height="535" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-19 -10.527)">
+      <g id="Group_8" data-name="Group 8" transform="translate(-11 -8)">
+        <text id="GO" transform="translate(19 401.986)" fill="#fff" font-size="302" font-family="SimplifiedArabic, Simplified Arabic"><tspan x="0" y="0">GO</tspan></text>
+        <text id="T" transform="translate(249.956 187.292) rotate(-30)" fill="#fff" font-size="123" font-family="SimplifiedArabic-Bold, Simplified Arabic" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+        <text id="R" transform="matrix(0.966, 0.259, -0.259, 0.966, 334.781, 150.587)" fill="#fff" font-size="123" font-family="SimplifiedArabic-Bold, Simplified Arabic" font-weight="700"><tspan x="0" y="0">R</tspan></text>
+        <text id="A" transform="translate(432.034 195.723) rotate(65)" fill="#fff" font-size="123" font-family="SimplifiedArabic-Bold, Simplified Arabic" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+        <text id="V" transform="matrix(-0.174, 0.985, -0.985, -0.174, 481.127, 292.627)" fill="#fff" font-size="119" font-family="SimplifiedArabic-Bold, Simplified Arabic" font-weight="700"><tspan x="0" y="0">V</tspan></text>
+        <text id="E" transform="matrix(-0.819, 0.574, -0.574, -0.819, 452.674, 391.316)" fill="#fff" font-size="119" font-family="SimplifiedArabic-Bold, Simplified Arabic" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+        <text id="L" transform="matrix(-0.966, -0.259, 0.259, -0.966, 340.526, 424.041)" fill="#fff" font-size="123" font-family="SimplifiedArabic-Bold, Simplified Arabic" font-weight="700"><tspan x="0" y="0">L</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

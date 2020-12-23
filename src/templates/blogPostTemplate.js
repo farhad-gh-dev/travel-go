@@ -46,7 +46,7 @@ export default function BlogPostTemplate({ data }) {
       </div>
       <div className="post-body container margins mb3">
         <div className="col-12 col-md-10 mx-auto">
-          <div className="post-details d-flex align-items-end mb-4 py-3 border-bottom">
+          <div className="post-details mb-4 py-3 border-bottom">
             <div
               style={
                 frontmatter.writerAvatar
@@ -57,9 +57,9 @@ export default function BlogPostTemplate({ data }) {
                       backgroundColor: "rgba(0, 0, 0, 0.8)",
                     }
               }
-              className="writer-avatar rounded-circle mr-3"
+              className="writer-avatar d-inline-block rounded-circle mr-3"
             ></div>
-            <div className="text-secondary text-capitalize">
+            <div className="text-secondary d-inline-block text-capitalize">
               <div className="h4 ">
                 by {frontmatter.writer ? frontmatter.writer : "--"}
               </div>

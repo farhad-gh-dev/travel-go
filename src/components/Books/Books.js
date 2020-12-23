@@ -68,7 +68,7 @@ export default function Books() {
   ]
 
   return (
-    <div className="books container-fluid section-paddings py3">
+    <div className="books container-fluid section-paddings py3" id="books">
       <div className="col-12 col-lg-10 col-xl-8 mx-auto">
         <h3 className="section-title text-center text-capitalize margins mb4">
           checkout this books
