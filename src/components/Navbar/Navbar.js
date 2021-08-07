@@ -2,6 +2,7 @@ import React, { useState } from "react"
 import { Link } from "gatsby"
 
 import SearchIcon from "../../images/icons/search.svg"
+import "./navbar.scss"
 
 export default function Navbar({
   navbarLinks,

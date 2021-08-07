@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import JapanImage from "../../images/blog/japan.jpg"
 import DubaiImage from "../../images/blog/dubai.jpg"
 import LondonImage from "../../images/blog/london.jpg"
+import "./blog-section.scss"
 
 export default function BlogSection() {
   const postsData = [

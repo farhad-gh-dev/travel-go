@@ -1,6 +1,7 @@
 import React from "react"
 
 import { citiesData } from "../../data/HomePageData"
+import "./cities-images.scss"
 
 const ImageCard = ({ cityData, direction }) => {
   return (

@@ -1,6 +1,7 @@
 import React from "react"
 
 import TeamImage from "../../images/team.jpg"
+import "./about.scss"
 
 export default function About() {
   return (

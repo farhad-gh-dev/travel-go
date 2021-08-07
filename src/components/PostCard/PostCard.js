@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import "./post-card.scss"
 
 export default function PostCard({ postData }) {
   return (

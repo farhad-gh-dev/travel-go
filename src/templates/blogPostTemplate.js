@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar/Navbar"
 import Footer from "../components/Footer/Footer"
 import SEO from "../components/seo"
 import { socialMediaIcons, navbarLinks, Logo } from "../data/HomePageData"
+import "./blog-post-template.scss"
 
 export default function BlogPostTemplate({ data }) {
   const { markdownRemark } = data

@@ -1,3 +1,5 @@
+@import "../../style/breakpoints";
+
 .about {
   position: relative;
 
@@ -7,7 +9,6 @@
     left: 0px;
     height: 80%;
     width: calc(100% - 150px);
-    // transform: translateX(-50%);
     background-color: rgba(0, 0, 0, 0.1);
   }
 
@@ -16,10 +17,6 @@
 
     @include xl-size() {
       font-size: 2rem;
-    }
-
-    @include lg-size() {
-      font-size: 1.7rem;
     }
 
     @include sm-size() {
@@ -35,10 +32,6 @@
     }
 
     @include lg-size() {
-      font-size: 1.1rem;
-    }
-
-    @include sm-size() {
       font-size: 1.1rem;
     }
   }

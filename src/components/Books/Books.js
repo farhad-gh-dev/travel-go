@@ -2,6 +2,7 @@ import React from "react"
 
 import DarkSaltClear from "../../images/books/book1.jpg"
 import GhostWays from "../../images/books/book2.jpg"
+import "./books.scss"
 
 const BookCard = ({ itemData }) => {
   return (

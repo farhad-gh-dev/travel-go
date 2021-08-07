@@ -4,6 +4,7 @@ import Logo from "../../images/travel-go-icon.png"
 import InstagramLogo from "../../images/icons/instagram.svg"
 import TwitterLogo from "../../images/icons/twitter.svg"
 import FacebookLogo from "../../images/icons/facebook.svg"
+import "./footer.scss"
 
 export default function Footer() {
   const socialMediaIcons = [InstagramLogo, TwitterLogo, FacebookLogo]
