@@ -23,9 +23,7 @@ const BookCard = ({ itemData }) => {
           itemData.imagePosition === "left" ? "order-2" : "order-2 order-md-1"
         } px-3 px-sm-4 px-md-3 px-lg-5`}
       >
-        <div className="title text-capitalize margins mb2 mb4-xl">
-          {itemData.title}
-        </div>
+        <h3 className="text-capitalize margins mb2 mb4-xl">{itemData.title}</h3>
         <div className="about-book margins mb1 font-weight-bold">
           {itemData.aboutBook}
         </div>
@@ -71,9 +69,9 @@ export default function Books() {
   return (
     <div className="books container-fluid section-paddings py3" id="books">
       <div className="col-12 col-lg-10 col-xl-8 mx-auto">
-        <h3 className="section-title text-center text-capitalize margins mb4">
+        <h2 className="section-title text-center text-capitalize margins mb4">
           checkout this books
-        </h3>
+        </h2>
         {BooksData.map(itemData => {
           return <BookCard itemData={itemData} />
         })}

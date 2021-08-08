@@ -16,6 +16,7 @@ $read_more_border_color: $secondary_color;
     flex-grow: 1;
 
     .small-screen-title {
+      font-size: 2rem !important;
       padding: 40px 40px 0 0;
       margin-left: 15px;
       display: none;
@@ -26,16 +27,9 @@ $read_more_border_color: $secondary_color;
       }
 
       @include sm-size() {
+        font-size: 1.6rem !important;
         margin-left: 0;
         padding-top: 20px;
-      }
-
-      h1 {
-        font-size: 2rem;
-
-        @include xs-size() {
-          font-size: 1.6rem;
-        }
       }
 
       div {
@@ -78,18 +72,18 @@ $read_more_border_color: $secondary_color;
         width: calc(100% - 40px);
       }
 
-      .title {
-        font-size: 4rem;
+      .large-screen-title {
+        font-size: 4rem !important;
         transform: translateY(-2.8rem);
         color: $secondary_color;
 
         @include xl-size() {
-          font-size: 3.2rem;
+          font-size: 3.2rem !important;
           transform: translateY(-2.2rem);
         }
 
         @include lg-size() {
-          font-size: 2.3rem;
+          font-size: 2.3rem !important;
           transform: translateY(-1.7rem);
         }
 

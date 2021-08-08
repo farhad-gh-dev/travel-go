@@ -41,8 +41,6 @@
         }
 
         .post-title {
-          font-size: 2.2rem;
-
           @include lg-size() {
             font-size: 1.7rem;
           }

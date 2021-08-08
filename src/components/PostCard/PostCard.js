@@ -6,7 +6,6 @@ export default function PostCard({ postData }) {
   return (
     <div className="post-card row pb-4 pt-5 border-bottom border-secondary">
       <div className="post-image col-12 col-md-5">
-        {/* <img src={postData.bannerImage} alt="test" className="w-100 rounded" /> */}
         <div className="h-100 position-relative overflow-hidden">
           <Link
             to={`/blog/${postData.title
@@ -26,16 +25,18 @@ export default function PostCard({ postData }) {
           ></Link>
         </div>
       </div>
-      <div className="post-text col-12 col-md-7 d-flex flex-column justify-content-between pl-4 pl-sm-3 pl-md-5">
+      <div className="post-text col-12 col-md-7 d-flex flex-column justify-content-between pl-4 pl-sm-3 pl-md-4 pl-lg-5">
         <div className="pt-5 pt-md-0 pt-lg-4 ">
           <Link
             to={`/blog/${postData.title
               .replaceAll(/ /g, "_")
               .replaceAll(/-/g, "_")
               .replaceAll(/'/g, "")}`}
-            className="post-title d-block text-decoration-none text-dark text-capitalize mb-4 mb-md-5"
+            className="text-decoration-none"
           >
-            {postData.title}
+            <h3 className="post-title d-block text-dark text-capitalize mb-4 mb-md-5">
+              {postData.title}
+            </h3>
           </Link>
           <div className="pl-0 pl-md-2 mb-5 mb-md-4">
             {postData.description}

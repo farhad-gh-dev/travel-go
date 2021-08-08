@@ -8,7 +8,7 @@ bannerImage: "https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-
 contentSource: "https://www.bucketlistly.blog/posts/4-days-hipster-itinerary-things-to-do-paris-france"
 ---
 
-<h3 class="h2 font-weight-light mb-3">Where To Stay In Paris</h3>
+<h3 class="font-weight-light mb-3">Where To Stay In Paris</h3>
 <p><strong>Budget/Mid-Range</strong>&nbsp;-&nbsp;<a href="https://www.booking.com/hotel/fr/hotelleregentmontmartre.html?aid=905356" target="_blank" rel="noopener">Le Regent Montmartre Hostel</a>&nbsp;- 34.36 USD/Night (Dorm) | 86.41/Night (Double Bed Private)</p>
 <p><a href="https://www.booking.com/hotel/fr/hotelleregentmontmartre.html?aid=905356" target="_blank" rel="nofollow noopener">Le Regent Montmartre Hostel</a>&nbsp;is a really cool hostel located near the famed Montmartre district and only a few minutes walk away from a metro station. It is one of the few hostels in Paris that is cheap enough and include free breakfast (including as many croissants as you like!). The dorm rooms have a built-in toilet, comfy beds and friendly staff. There was nothing more I could ask for.</p>
 <p>The hostel is located near the "Barb&egrave;s - Rochechouart" metro station and from there we can launch ourselves into the city easily and get to the exploration part faster.</p>
@@ -18,7 +18,7 @@ contentSource: "https://www.bucketlistly.blog/posts/4-days-hipster-itinerary-thi
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">How To Get To Paris</h3>
+<h3 class="font-weight-light mb-3">How To Get To Paris</h3>
 <p>The best way to get here is to fly directly to Paris. I would recommend you browse through&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.skyscanner.com/" target="_blank" rel="nofollow noopener">Skyscanner</a>&nbsp;or&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.expedia.com/Flights" target="_blank" rel="nofollow noopener">Expedia</a>&nbsp;to find all the cheap flights from where you live to France and compare them so that you can find the one best fit for your itinerary.</p>
 <p>If you are coming from nearby cities, say Rennes, buses might be the easiest option. I took a bus operated by&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.busbud.com/en/bus-company/ouibus" target="_blank" rel="nofollow noopener">Ouibus</a>&nbsp;from Rennes bus station to the Central Paris-Bercy station. The whole trip took 4.5 hrs. From the Paris Bercy train station, you can take the train to the hostel from the Bercy Metro station. You can also never go wrong with&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.busbud.com/" target="_blank" rel="nofollow noopener">Flixbus</a>&nbsp;as they are run widely throughout Europe.</p>
 <p>Train is also a viable option if you are short on time but not money. You can book the train from the&nbsp;<a href="http://en.voyages-sncf.com/en/" target="_blank" rel="noopener">Voyage SNCF website</a>. Paris has many train stations so be sure to get the train that drops you off near a metro station or your hostel if you can.</p>
@@ -28,7 +28,7 @@ contentSource: "https://www.bucketlistly.blog/posts/4-days-hipster-itinerary-thi
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">How To Get Around Paris</h3>
+<h3 class="font-weight-light mb-3">How To Get Around Paris</h3>
 <p>Many of the places that I went to are pretty far apart from each other so I would suggest you to buy a one or multi-days Metro pass. You can get the pass from the ticket machine in most metro stations including the "Barb&egrave;s - Rochechouart" one.</p>
 <p>Walking is also my preferred way of transportation especially in the area highly concentrated with beautiful attractions. For example, if you take a metro to H&ocirc;tel de Ville station, you can walk to almost all the famous attractions in that area like the Louvre and the Notre Dame in one go.&nbsp;Traveling here is quite expensive and not very budget-friendly but there are options. You can expect to spend around&nbsp;<strong>50 - 70 USD per day</strong>&nbsp;per person for food, accommodation and transportation.</p>
 <div class="px-3 py-2">
@@ -37,7 +37,7 @@ contentSource: "https://www.bucketlistly.blog/posts/4-days-hipster-itinerary-thi
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">What To Pack For Paris, France</h3>
+<h3 class="font-weight-light mb-3">What To Pack For Paris, France</h3>
 <p>As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Paris, France:</p>
 <ul>
 <li><strong>Walking/Hiking Shoes</strong>: I love walking around new cities or go on a small hike and so I highly recommend you take good comfortable shoes with you on this trip. My go-to shoes are the&nbsp;<a href="https://amzn.to/2xixPUy" target="_blank" rel="noopener nofollow">Timberland Shoes</a>&nbsp;that I wore in most situations, even on long hikes.</li>
@@ -62,7 +62,7 @@ contentSource: "https://www.bucketlistly.blog/posts/4-days-hipster-itinerary-thi
 <br />
 <br />
 
-<h4 class="h2 font-weight-light mb-3">Visit The Louvre On Tuesday</h4>
+<h4 class="font-weight-light mb-3">Visit The Louvre On Tuesday</h4>
 <p>Why Tuesday you asked? Well, it's because Louvre is closed that day. Yes, the best day to visit this museum is when it is closed. If you are like me who enjoys the architecture but not so much the queuing and the museum then Tuesday is the best day to visit because you will get to see the magnificent glass pyramid without the crazy crowds that usually form in front of the museum on other days.</p>
 <p>If you are a photographer, Tuesday is your best bet to get the perfect photos of the architecture without tourists interference.</p>
 <div class="px-3 py-2">

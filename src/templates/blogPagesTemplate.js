@@ -27,7 +27,7 @@ export default function blogPagesTemplate({ data, pageContext }) {
       />
       <SEO title="Travel Go | Blog" />
       <div className="container py-5">
-        <div className="text-capitalize display-4 mb-5">blog section</div>
+        <h1 className="section-title text-capitalize mb-5">blog section</h1>
         {allPosts.map(post => {
           const postData = post.node.frontmatter
 

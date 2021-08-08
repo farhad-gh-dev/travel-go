@@ -20,7 +20,7 @@ export default function Header() {
 
       <div className="banner mt-2">
         <div className="small-screen-title">
-          <h1 className="font-italic font-weight-normal m-0">
+          <h1 className="small-screen-title custom-h1 font-italic font-weight-normal m-0">
             Travel Around the World
           </h1>
           <div className="text-capitalize">
@@ -31,7 +31,7 @@ export default function Header() {
           </div>
         </div>
         <div className="banner-bg-color">
-          <h1 className="title font-italic font-weight-normal m-0">
+          <h1 className="large-screen-title custom-h1 font-italic font-weight-normal m-0">
             Travel Around the World
           </h1>
           <div className="description col-4 col-lg-6 ">

@@ -8,7 +8,7 @@ bannerImage: "https://indietravelpodcast.com/wp-content/uploads/2015/12/AdobeSto
 contentSource: "https://www.bucketlistly.blog/posts/things-to-do-tokyo-backpacking#travel-insurance-for-japan"
 ---
 
-<h3 class="h2 font-weight-light mb-3">Where To Stay In Tokyo</h3>
+<h3 class="font-weight-light mb-3">Where To Stay In Tokyo</h3>
 <p><strong>Tokyo</strong>&nbsp;-&nbsp;- 24 USD/Night</p>
 <p>Since the hostel I stayed () is right in the middle of the Asakusa area, I decided to visit the Sensoji shrine (Asakusa Kannon Temple) first.Boy, was it a mistake. There were so many people I couldn't even get one decent shot of the iconic lamp (Kaminarimon). Since the area is open 24 hours and my hostel was near, I decided to go to Harajuku first and then came back later at night.</p>
 <div class="px-3 py-2">
@@ -17,7 +17,7 @@ contentSource: "https://www.bucketlistly.blog/posts/things-to-do-tokyo-backpacki
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">What To Pack For Tokyo, Japan</h3>
+<h3 class="font-weight-light mb-3">What To Pack For Tokyo, Japan</h3>
 <p>As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Tokyo, Japan:</p>
 <ul>
 <li><strong>Walking/Hiking Shoes</strong>: I love walking around new cities or go on a small hike and so I highly recommend you take good comfortable shoes with you on this trip. My go-to shoes are the&nbsp;<a href="https://amzn.to/2xixPUy" target="_blank" rel="noopener nofollow">Timberland Shoes</a>&nbsp;that I wore in most situations, even on long hikes.</li>
@@ -39,7 +39,7 @@ contentSource: "https://www.bucketlistly.blog/posts/things-to-do-tokyo-backpacki
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">1. Go People-Watching In Harajuku</h3>
+<h3 class="font-weight-light mb-3">1. Go People-Watching In Harajuku</h3>
 <p>As I arrived in Harajuku, I saw a large group of people surrounding this one restaurant. Turned out this bad boy just arrived at the Sushi restaurant. The first thing I did was I walked into Takeshita Street, a shopping street where the cool Harajuku kids love to hang out. Since it was also Saturday, it was extra busy. Apparently, there was a Girl's Generation concert in Harajuku when I was there. No wonder why people dressed a little extra crazy around the area!</p>
 <div class="px-3 py-2">
 <img src='https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/03/yukata-kyoto_Satoshi-K_iStock-1171807849.jpg' class="w-100"/>
@@ -47,7 +47,7 @@ contentSource: "https://www.bucketlistly.blog/posts/things-to-do-tokyo-backpacki
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">2. Stroll Around Meiji Park</h3>
+<h3 class="font-weight-light mb-3">2. Stroll Around Meiji Park</h3>
 <p>Nearby, there is a very nice park called Meiji Park where most Japanese wedding takes place. The park is a great demonstration of how nature can coexist with modern architecture surrounding it.&nbsp;Meiji Park is a great place to hide from all the heat and crowdedness of Tokyo.&nbsp;Who would imagine a full-blown forest like this could be found in a space concerned city like Tokyo.&nbsp;The Japanese attention to detail is astoundingly impressive. Everything must be perfectly created. They don't even bother creating a half-ass product here.&nbsp;Inside, there are several shrines scattered throughout the park where people can come and pray.&nbsp;The cleansing well for prayers to cleansed their hands or drink it before praying.</p>
 <p>Ema is a small wooden plaques you find in most temples around Japan. Shinto worshippers write their prayers or wishes and left them hanging at the shrine.&nbsp;After a few hours of peaceful solitude, it's time to get back to the city!</p>
 <div class="px-3 py-2">

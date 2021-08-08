@@ -8,7 +8,7 @@ bannerImage: "https://res-1.cloudinary.com/enchanting/f_auto/et-web/2018/04/Hote
 contentSource: "https://www.bucketlistly.blog/posts/taj-mahal-agra-jaipur-india-solo-travel"
 ---
 
-<h3 class="h2 font-weight-light mb-3">Day 4 - Taj Mahal!!</h3>
+<h3 class="font-weight-light mb-3">Day 4 - Taj Mahal!!</h3>
 <p>I woke up at 3:30 AM to prepare myself for the once in a lifetime trip, to see the sunrise at the Taj Mahal. My driver was right on time by 5:00 am and we drove for 15 minutes to the ticket booth to buy the entry ticket. Taj Mahal has the most expensive ticket of all the monuments in India. For foreigners, it will cost you around 750 rupees. If you are a citizen of SAARC and BIMSTEC countries, your ticket will be cheaper. Since I'm from Thailand which is part of the BIMSTEC countries, I was able to get the ticket for only 510 rupees. You will be distributed with a plastic bag which you will need to cover your shoes as you walk up to the Taj Mahal.</p>
 <p>After I got the ticket, I was told that no cars were allowed from this point on so I had to take a shared electric bus to the western gate of the Taj Mahal. As I walked to the gate, there was a little line full of foreigners waiting to see the Taj Mahal. I thought there would be more but I guess it was a good idea to travel during the monsoon season.</p>
 <div class="px-3 py-2">
@@ -25,7 +25,7 @@ contentSource: "https://www.bucketlistly.blog/posts/taj-mahal-agra-jaipur-india-
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">Day 5 - The Pink City (Jaipur)</h3>
+<h3 class="font-weight-light mb-3">Day 5 - The Pink City (Jaipur)</h3>
 <p>Ram was supposed to meet me at 9:30 AM but again, he was late, due to unexpected traffic. He eventually arrived at 10 AM and we headed to our first stop, the palace of the wind (Hawa Mahal).</p>
 <p>This place is very underwhelming. It looks huge in photos but it actually is a very small building on the side of the road. I didn't go inside since the next destination excited me more, the Amber Fort.&nbsp;<p >As we approached the fort. This place is the highlight of Jaipur for me and I was not disappointed.</p>&nbsp;I rode an elephant up (complimentary by the India by Car company)the fort. To tell you the truth, despite the touters along the way, I felt like a prince of persia returning to my fort. :) It was that epic.</p>
 <div class="px-3 py-2">

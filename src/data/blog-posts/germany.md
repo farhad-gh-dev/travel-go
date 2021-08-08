@@ -8,7 +8,7 @@ bannerImage: "https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/
 contentSource: "https://www.bucketlistly.blog/posts/munich-hidden-gems-things-to-do-backpacking"
 ---
 
-<h3 class="h2 font-weight-light mb-3">Where To Stay In Munich</h3>
+<h3 class="font-weight-light mb-3">Where To Stay In Munich</h3>
 <p><strong>Budget</strong>&nbsp;-&nbsp;- 28.63 USD/Night (Dorm)</p>
 <p>was where I stayed in Munich. I chose this hostel mainly because it was conveniently located within walking distance from the central train station and the central hub, the Marienplatz. All the other aspects were also amazing with free buffet breakfast, fast internet, comfy bed and a reassuring security system.</p>
 <p>The hostel is 2 minutes walk away from both the train station and the Marienplatz area.</p>
@@ -19,7 +19,7 @@ contentSource: "https://www.bucketlistly.blog/posts/munich-hidden-gems-things-to
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">How To Get To Munich</h3>
+<h3 class="font-weight-light mb-3">How To Get To Munich</h3>
 <p>The best way to get here is to fly either directly to Munich or into one of Germany's hub cities like Frankfurt or Berlin and take a bus from there. I would recommend you browse through&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.skyscanner.com/" target="_blank" rel="nofollow noopener">Skyscanner</a>&nbsp;or&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.expedia.com/Flights" target="_blank" rel="nofollow noopener">Expedia</a>&nbsp;to find all the cheap flights from where you live to Germany and compare them so that you can find the one best fit for your itinerary.</p>
 <p>Trains operated by&nbsp;<a href="https://www.bahn.com/en" target="_blank" rel="noopener">Deutsche Bahn (DB)</a>&nbsp;are very accessible in Germany through online payments via their website or mobile app. The train stations are also centrally located in the city center so if you want the easiest option, go with the trains.</p>
 <p>For the cheapest option, I always go with the bus operated by&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.busbud.com/" target="_blank" rel="nofollow noopener">Flixbus</a>. They are reliable, on time and usually cheaper than others. Munich is a big city so coming here with a bus is probably not too difficult.</p>
@@ -30,7 +30,7 @@ contentSource: "https://www.bucketlistly.blog/posts/munich-hidden-gems-things-to
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">How To Get Around Munich</h3>
+<h3 class="font-weight-light mb-3">How To Get Around Munich</h3>
 <p>Most of the places I mentioned in this article are in walking distance but there are a few places where you have to take a tram or a metro to go there.</p>
 <p>Traveling here, on average, will cost you more than traveling in most countries out there. You can expect to spend around&nbsp;<strong>45 - 65 USD per day</strong>&nbsp;per person with food, accommodation and transportation.</p>
 <p>Keep in mind that this is just a suggested daily budget based on my style of traveling, which is leaning more toward the budget side of things. If you want to stick to this budget, expect to sleep in dorms, eat out only a few times, and be comfortable using the cheapest and most convenient way of transportation, which often times involves walking.</p>
@@ -40,7 +40,7 @@ contentSource: "https://www.bucketlistly.blog/posts/munich-hidden-gems-things-to
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">What To Pack For Munich, Germany</h3>
+<h3 class="font-weight-light mb-3">What To Pack For Munich, Germany</h3>
 <p>As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Munich, Germany:</p>
 <ul>
 <li><strong>Walking/Hiking Shoes</strong>: I love walking around new cities or go on a small hike and so I highly recommend you take good comfortable shoes with you on this trip. My go-to shoes are the&nbsp;<a href="https://amzn.to/2xixPUy" target="_blank" rel="noopener nofollow">Timberland Shoes</a>&nbsp;that I wore in most situations, even on long hikes.</li>

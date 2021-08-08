@@ -27,16 +27,10 @@
       font-weight: 300;
 
       @include lg-size() {
-        font-size: 2.2rem;
+        font-size: 2rem !important;
       }
-
-      @include md-size() {
-        font-size: 2rem;
-      }
-
-      @include sm-size() {
-        font-size: 1.5rem;
-        font-weight: normal;
+      @include sm-size {
+        font-size: 1.8rem !important;
       }
     }
     .post-details {

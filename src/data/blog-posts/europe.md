@@ -8,7 +8,7 @@ bannerImage: "https://www.ourescapeclause.com/wp-content/uploads/2019/04/Annecy-
 contentSource: "https://www.bucketlistly.blog/posts/3-months-itinerary-europe"
 ---
 
-<h3 class="h2 font-weight-light mb-3">When To Visit Europe</h3>
+<h3 class="font-weight-light mb-3">When To Visit Europe</h3>
 <p>Europe is extremely crowded where ever you go in the summer so I would recommend visiting from&nbsp;<strong>April to May</strong>&nbsp;(Spring) and&nbsp;<strong>September to October</strong>&nbsp;(Autumn) instead.</p>
 <p>During these periods, you will get the best of both worlds, with fewer tourists, cheaper prices for accommodations, good average temperature, and the colors of nature are in full swing. Plus, outdoor activities you can attend in cities like Berlin are still happening during these months so it will be fun nonetheless.</p>
 <div class="px-3 py-2">
@@ -17,7 +17,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-months-itinerary-europe"
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">Where To Stay In Europe</h3>
+<h3 class="font-weight-light mb-3">Where To Stay In Europe</h3>
 <p><strong>Madrid, Spain</strong>&nbsp;-&nbsp;(Budget) - 22 USD/Night (Dorm + Free Breakfast) |&nbsp;<a href="https://www.booking.com/hotel/es/hostal-falfes.html?aid=905356" target="_blank" rel="nofollow noopener">Hostal Falfes</a>&nbsp;(Mid-Range) - 38 USD / Night (Twin Room with Shared Bathroom)</p>
 <p><strong>Seville, Spain</strong>&nbsp;-&nbsp;(Budget) - 18 USD/Night (Dorm) |&nbsp;<a href="https://www.booking.com/hotel/es/the-boutike-hostel.html?aid=905356" target="_blank" rel="nofollow noopener">The Boutike Hostel</a>&nbsp;(Mid-Range) - 63 USD / Night (Double/Twin Room)</p>
 <p><strong>Granada, Spain</strong>&nbsp;-&nbsp;(Budget) - 17 USD/Night (Dorm) |&nbsp;<a href="https://www.booking.com/hotel/es/saray.html?aid=905356" target="_blank" rel="nofollow noopener">Hotel Saray</a>&nbsp;(Mid-Range) - 56 USD / Night (Double/Twin Room)</p>
@@ -31,7 +31,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-months-itinerary-europe"
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">How To Get Around Europe</h3>
+<h3 class="font-weight-light mb-3">How To Get Around Europe</h3>
 <p>Europe is massive and since this itinerary covers over 10 countries, a well-planned route and mode of transportation are essential especially with the 90 days limits on our tourist visa. Here are a few ways you can get around Europe:</p>
 <p><strong>Low-Cost Airlines</strong>&nbsp;like RyanAir is a great option if you want to shorten your travel time significantly and travel far but it is expensive and with this itinerary, you will likely be traveling close by and making your way slowly around the continent so you won't be flying.</p>
 <p><strong>Buses</strong>&nbsp;are one of the best and cheapest ways to travel around Europe. Most of the locations covered in this itinerary can be traveled by bus (except Zermatt where you will have to take the train).&nbsp;<a href="https://www.anrdoezrs.net/links/8745201/type/dlg/https://www.busbud.com/" target="_blank" rel="nofollow noopener">Flixbus</a>&nbsp;is a great option with affordable prices and a good network of buses that connect most of the places I listed here.</p>
@@ -42,7 +42,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-months-itinerary-europe"
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">Internet In Europe</h3>
+<h3 class="font-weight-light mb-3">Internet In Europe</h3>
 <p>Given the new data roaming surcharge ban that went into effect in 2017, we can now have one local sim card bought in the EU and use it in most places in Europe without having to buy a new sim card for every new country you visit making our connected lives so much easier.</p>
 <p>In theory, you can buy a sim card from Spain and access data throughout your trip with the same domestic rate no matter where you are, but there are some countries that have yet to comply with the change like Poland and the Nordic countries.</p>
 <p>Thankfully, Wifi is plenty in these countries so you will have no trouble getting online while on the road, even without roaming sim cards.</p>
@@ -53,7 +53,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-months-itinerary-europe"
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">What To Pack For Europe</h3>
+<h3 class="font-weight-light mb-3">What To Pack For Europe</h3>
 <p>As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Europe:</p>
 <ul>
 <li><strong>Walking/Hiking Shoes</strong>: I love walking around new cities or go on a small hike and so I highly recommend you take good comfortable shoes with you on this trip. My go-to shoes are the&nbsp;<a href="https://amzn.to/2xixPUy" target="_blank" rel="noopener nofollow">Timberland Shoes</a>&nbsp;that I wore in most situations, even on long hikes.</li>

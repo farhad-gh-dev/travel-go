@@ -8,7 +8,7 @@ bannerImage: "https://www.bonnyair.com/wp-content/uploads/2020/03/Travel-to-Aust
 contentSource: "https://www.bucketlistly.blog/posts/uluru-kata-tjuta-backpacking-things-to-do#day-2-uluru-sunrise-cultural-base-walk-and-astro-tour"
 ---
 
-<h3 class="h2 font-weight-light mb-3">Travel Insurance For Australia</h3>
+<h3 class="font-weight-light mb-3">Travel Insurance For Australia</h3>
 <div>
 <p>If you are looking for a travel insurance to go along with your trip to Australia, I would recommend&nbsp;<a href="https://www.worldnomads.com/Turnstile/AffiliateLink?partnerCode=blbe9200&amp;utm_source=blbe9200&amp;source=link&amp;utm_content=link&amp;path=https://www.worldnomads.com/" target="_blank" rel="nofollow noopener">WorldNomads.com</a>, which is what I use to look for a travel insurance that fits my kind of adventure. They have a simple and flexible search system that allowed me to find the right insurance for the right amount of time at an affordable price in seconds. If you need a travel insurance, give WorldNomads.com a try.</p>
 <div class="px-3 py-2">
@@ -17,7 +17,7 @@ contentSource: "https://www.bucketlistly.blog/posts/uluru-kata-tjuta-backpacking
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">What To Pack For Uluru, Australia</h3>
+<h3 class="font-weight-light mb-3">What To Pack For Uluru, Australia</h3>
 <p>As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Uluru, Australia:</p>
 <ul>
 <li><strong>Walking/Hiking Shoes</strong>: I love walking around new cities or go on a small hike and so I highly recommend you take good comfortable shoes with you on this trip. My go-to shoes are the&nbsp;<a href="https://amzn.to/2xixPUy" target="_blank" rel="noopener nofollow">Timberland Shoes</a>&nbsp;that I wore in most situations, even on long hikes.</li>
@@ -39,7 +39,7 @@ contentSource: "https://www.bucketlistly.blog/posts/uluru-kata-tjuta-backpacking
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">Day 1: Kata Tjuta - The Valley Of The Winds Walk</h3>
+<h3 class="font-weight-light mb-3">Day 1: Kata Tjuta - The Valley Of The Winds Walk</h3>
 <p>I flew Virgin Australia from Sydney to Ayers Rock and along the way, I met&nbsp;<a href="http://captainaurelieneyret.tumblr.com/">Aurelie Neyret</a>&nbsp;who not only was a wonderful person to be around with but also a great illustrator herself. We decided to form an expedition to explore the outback together.</p>
 <p>We took a free shuttle bus from the Airport to our lodge, the Outback Pioneer Lodge. Behind the lodge there is a outlook post where we got our first glimpse of the scale of Uluru and the Kata Tjuta from afar. The heat was almost unbearable at that point, but what the hell. You are only here once right?</p>
 <p>On my first evening I decided to go on the Valley of the Winds walk tour by the AAT Kings company. On my way to climb the Kata Tjuta.</p>
@@ -59,7 +59,7 @@ contentSource: "https://www.bucketlistly.blog/posts/uluru-kata-tjuta-backpacking
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">Day 2: Uluru Sunrise, Cultural Base Walk And Astro Tour</h3>
+<h3 class="font-weight-light mb-3">Day 2: Uluru Sunrise, Cultural Base Walk And Astro Tour</h3>
 <p>We woke up extremely early to catch a coach from the lobby to the Uluru sunrise spot. People were flocking the elevated platform, so I decided to go a less crowded route a few meters away so I can be alone with the rock. It was a good call because I was able to capture this shot without having to fight for a spot.&nbsp;There were absolutely no one around. I love it! The experience was so refreshing I consider this one of the best sunrise experience I had. Beautiful gradient sky created a perfect contrast backdrop for the red sandstone of Uluru as the sun casted its light toward the rock making it shifted colors.</p>
 <p>I met up with Aurelie and we continued down the path until we realized that we were late for our next stop, the cultural base walk. We ran like crazy and I was given a pretty deadly stare from my tour mates. Little did we know that this was the beginning of our "Always Late to Everything" saga.&nbsp;The walk started out slowly as our guide explained how the rock was formed. There was life everywhere! Trees grow mightily around the base. The ground was filled with grasses and vegetation. Nothing I anticipated for a desert.&nbsp;The complexity of the rock became clearer and clearer as I walked around the base.</p>
 <p>At the end of the tour, Nick pointed the telescopes at the moon and took off the light filter so we can take a photo of the moon with our camera. The moon was so clear you could see the moon's craters on the side.</p>

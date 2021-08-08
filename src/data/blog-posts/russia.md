@@ -8,7 +8,7 @@ bannerImage: "https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-
 contentSource: "https://www.bucketlistly.blog/posts/3-days-saint-petersburg-russia-itinerary#saint-petersburg-itinerary-map"
 ---
 
-<h3 class="h2 font-weight-light mb-3">When To Visit Saint Petersburg</h3>
+<h3 class="font-weight-light mb-3">When To Visit Saint Petersburg</h3>
 <p>June to August is the best time to go as the temperature is perfect for outdoor activities hovering around 20 - 25&deg;C and you are more likely to get a clear day than shoulder seasons. Clear days are hard to come by out of the summertime so I would only recommend this period.</p>
 <div class="px-3 py-2">
 <img src='https://worldofwanderlust.com/wp-content/uploads/2014/07/IMG_4065.jpg' class="w-100"/>
@@ -16,7 +16,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-days-saint-petersburg-russ
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">How To Get Around Saint Petersburg</h3>
+<h3 class="font-weight-light mb-3">How To Get Around Saint Petersburg</h3>
 <p>Saint Petersburg attractions are mostly concentrated around the winter palace area so most of the places are walkable.</p>
 <p>If you want to explore a little further, the metro system is possibly the cheapest and fastest way to get around inside the city. It should cost you around 45 RUB (0.8 USD) per single trip of any distance.</p>
 <p>Buses are a little bit cheaper (40 RUB) but depend on the traffic and time, it might be faster and more reliable to stick with the metro.</p>
@@ -27,7 +27,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-days-saint-petersburg-russ
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">Where To Stay In Saint Petersburg</h3>
+<h3 class="font-weight-light mb-3">Where To Stay In Saint Petersburg</h3>
 <p>Saint Petersburg -&nbsp;<a href="https://www.booking.com/hotel/ru/hostel-chickadee.en-gb.html?aid=905356" target="_blank" rel="nofollow noopener">Hostel Chickadee</a>&nbsp;- 6.5 USD/Night (Centrally located inside an old European building with beautiful wooden decors and comfortable beds with curtains.)</p>
 <p>If you booked the same hostel that I do, from Moskovskaya station, get on the dark blue line and change to red line at Tekhnologicheskiy Institut station and head to Vladimirskaya station and you are 2 blocks away from Hostel Chickadee.</p>
 <p>This place is moderately priced with transportation, food and accommodation average around&nbsp;<strong>35 - 55 USD per day</strong>&nbsp;per person. Not that cheap but not too expensive.</p>
@@ -38,7 +38,7 @@ contentSource: "https://www.bucketlistly.blog/posts/3-days-saint-petersburg-russ
 <br />
 <br />
 
-<h3 class="h2 font-weight-light mb-3">What To Pack For Saint Petersburg, Russia</h3>
+<h3 class="font-weight-light mb-3">What To Pack For Saint Petersburg, Russia</h3>
 <p>As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Saint Petersburg, Russia:</p>
 <ul>
 <li><strong>Walking/Hiking Shoes</strong>: I love walking around new cities or go on a small hike and so I highly recommend you take good comfortable shoes with you on this trip. My go-to shoes are the&nbsp;<a href="https://amzn.to/2xixPUy" target="_blank" rel="noopener nofollow">Timberland Shoes</a>&nbsp;that I wore in most situations, even on long hikes.</li>

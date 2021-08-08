@@ -38,7 +38,7 @@ export default function BlogPostTemplate({ data }) {
               <h1 className="title font-weight-light text-light mb-5 px-3 px-md-5">
                 {frontmatter.title ? frontmatter.title : "NO Title"}
               </h1>
-              <p className="description px-3 px-lg-5">
+              <p className="description px-md-3 px-lg-5">
                 {frontmatter.description}
               </p>
             </div>
@@ -46,7 +46,7 @@ export default function BlogPostTemplate({ data }) {
         </div>
       </div>
       <div className="post-body container margins mb3">
-        <div className="col-12 col-md-10 mx-auto">
+        <div className="col-12 col-md-10 mx-auto px-2 px-sm-3">
           <div className="post-details mb-4 py-3 border-bottom">
             <div
               style={

@@ -36,7 +36,7 @@ export default function BlogSection() {
     <div className="blog-section section-paddings py2" id="blog">
       <div className="col-12 col-md-11 col-lg-10 col-xl-9 mx-auto">
         <div className="text-center mb-5">
-          <h3 className="section-title text-capitalize">our blog</h3>
+          <h2 className="section-title text-capitalize">our blog</h2>
         </div>
         <div className="cards-container row">
           {postsData.map(post => {
@@ -52,9 +52,9 @@ export default function BlogSection() {
                     className="w-100"
                   />
                   <div className="card-text d-flex flex-column justify-content-center align-items-center text-center">
-                    <h4 className="post-title font-weight-light text-capitalize mb-5 px-5">
+                    <h3 className="post-title font-weight-light text-capitalize mb-5 px-5">
                       {post.title}
-                    </h4>
+                    </h3>
                     <p className="px-4 d-block d-md-none">{post.mainText}</p>
                   </div>
                 </Link>
